@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: Python, Git & Linear Algebra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)][linkedin]
-[![Stack Exchange](https://img.shields.io/stackexchange/dba/r/45616?label=StackExchange&logo=stackexchange&style=social)][se]
+[![Stack Exchange](https://img.shields.io/stackexchange/dba/r/326972?label=StackExchange&logo=stackexchange&style=social)][se]
 
 
 [se]: https://stackexchange.com/users/326972/bo-anderson
