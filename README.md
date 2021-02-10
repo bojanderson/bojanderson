@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: Python, R & taking [a class through Georgia Tech](https://omscs.gatech.edu/isye-6501-intro-analytics-modeling)
 - 👯 I’m looking to collaborate on open-source T-SQL projects
 - ⚡ Fun fact: I've been apart of two world records
-- 🔭 A goal for me this year is to contribute to the [First Responder Kit](http://firstresponderkit.org/)
+- 🔭 A goal for me this year is to contribute to the [First Responder Kit](http://firstresponderkit.org/) and to hit 1200 Elo in Chess
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)][linkedin]
 [![Stack Exchange](https://img.shields.io/stackexchange/dba/r/326972?label=StackExchange&logo=stackexchange&style=social)][se]
