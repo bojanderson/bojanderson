@@ -1,8 +1,8 @@
 ### Hi I'm Bo 👋
 
-[![Bo's github stats](https://github-readme-stats.vercel.app/api?username=bojanderson)](https://github.com/anuraghazra/github-readme-stats)
+[![Bo's github stats](https://github-readme-stats.vercel.app/api?username=bojanderson)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bojanderson)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bojanderson)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 - 🌱 I’m currently learning: I'm enrolled at Georgia Tech in their [OMSA program](https://pe.gatech.edu/degrees/analytics)
 - 👯 I’m looking to collaborate on open-source T-SQL, Python or R projects
